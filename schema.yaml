@@ -1,1 +1,18 @@
-key: val
+COLUMNS:
+  Alcohol: Float64
+  Malic_Acid: Float64
+  Ash: Float64
+  Ash_Alcanity: Float64
+  Magnesium: int64
+  Total_Phenols: Float64
+  Flavanoids: Float64
+  Nonflavanoid_Phenols: Float64
+  Proanthocyanins: Float64
+  Color_Intensity: Float64
+  Hue: Float64
+  OD280: Float64
+  Proline: int64
+  Customer_Segment: int64
+
+  TARGET_COLUMN: 
+  name: Customer_Segment
